@@ -22,3 +22,7 @@ Après avoir envoyé les fichiers dans la branche `main`, rendez-vous dans **Set
 - `facade.webp` ne figurait pas dans l'archive. Pour éviter une image cassée, la photo de la réception est réutilisée dans la section Contact. Vous pouvez rétablir une photo de façade en ajoutant `assets/facade.webp` et en remplaçant la référence correspondante.
 - Le formulaire de rendez-vous ouvre WhatsApp, il n'utilise pas de serveur ni de base de données.
 - Les polices Google Fonts nécessitent une connexion internet.
+
+## Publication
+
+Ce dépôt contient `index.html` à la racine et `.nojekyll` pour une publication statique GitHub Pages. Le site public attendu est : https://ayoublouukili-cell.github.io/Elite/
